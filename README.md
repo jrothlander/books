@@ -2,6 +2,8 @@ Code samples from a few out-of-print books from 2001-2003 from **Premier Press -
 
 I am working through these samples and creating new versions that are up to date with the latest C++ using Visual Studio 2022. I will add the updated version here for anyone who would like to work through them and has either lost the original CD(s) or would like an updated version of the samples.  
 
+I have added my own README.md file to many of the folders to explains some of the details I ran into while working through the samples.
+
 ## Currently Available
 - _**AI Techniques for Game Programming**_, by Mat Buckland (Premier Press, 2002)
   - ISO image is available from https://archive.org/details/ai-tech
