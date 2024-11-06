@@ -1,8 +1,8 @@
-Code samples from a few out-of-print books from 2001-2003 from **Premier Press - Game Development Series**, edited by Andre LaMothe. 
+This is a code repository for samples from a few out-of-print books from 2001-2003 from **Premier Press - Game Development Series**. 
 
-I am working through these samples and creating new versions that are up to date with the latest C++ using Visual Studio 2022. I will add the updated version here for anyone who would like to work through them and has either lost the original CD(s) or would like an updated version of the samples.  
+To work with the samples in Visual Studio 2022, I had to migrate the project forward from **Microsoft Developer Studio** projects (.dsp) and workspaces (.dsw) to **Visual Studio** projects. To do this, I simply added an empty C++ project, added the sample header (.h) and C++ files (.cpp) to the solution, changed the application type from **console** to a **Windows desktop**, and changed the character-set from **unicode** to **multi-byte**. I have saved the project files in the project folders and I left the .dsp and .dsw files there as well. 
 
-I have added my own README.md file to many of the folders to explains some of the details I ran into while working through the samples.
+I have added a number of README.md files to various folders to explains some of the details I ran into while working through the samples.
 
 ## Currently Available
 - _**AI Techniques for Game Programming**_, by Mat Buckland (Premier Press, 2002)
