@@ -1,5 +1,5 @@
 # Chapter 1
-This chapter steps you through four simple window apps that detail how to build a basic desktop application in C++. The four HellowWord samples are nearly identical to the project Visual Studio 2022 creates for you if you create a new C++ Windows desktop app today. This chapter does a really good job explaining the code. In fact, does a much better job than a couple of modern C++ Windows Desktop app books I have read.
+This chapter steps you through four simple window apps that detail how to build a basic desktop application in C++. The four HellowWord samples are nearly identical to the project Visual Studio 2022 creates for you if you create a new C++ Windows desktop app today. This chapter does a really good job explaining the code. In fact, it does a much better job than a couple of modern C++ Windows Desktop app books I have read.
 
 Once you work through chapter 1, I recommend creating a new C++ Windows desktop application in Visual Studio and then review the project and compare the code to HellowWorld4. You will notice that they are nearly identical. The 2022 version does add a few more interesting features (menus, about popup message, etc.), which will be covered in chapter 2. 
 
