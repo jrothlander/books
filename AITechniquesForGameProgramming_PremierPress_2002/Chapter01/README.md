@@ -3,6 +3,8 @@ This chapter steps you through four simple window apps that detail how to build 
 
 Once you work through chapter 1, I recommend creating a new C++ Windows desktop application in Visual Studio and then review the project and compare the code to HellowWorld4. You will notice that they are nearly identical. The 2022 version does add a few more interesting features (menus, about popup message, etc.), which will be covered in chapter 2. 
 
+I had to add [const] to the application name and class name character strings and  [#pragma comment(lib, "winmm.lib")] to version 3 and 4. 
+
 #### HellowWord1 
 A simple example of a WinMain() with a MessageBox.
 
