@@ -6,17 +6,20 @@ I had to migrate the project forward from **Microsoft Developer Studio** project
 - _**AI Techniques for Game Programming**_, by Mat Buckland (Premier Press, 2002)
   - ISO image is available from https://archive.org/details/ai-tech  
   - I have included my updated version of the projects that use Visual Studio and C++17.
-  - I am building new versions in C# that I will include as I complete them. 
+  - I am building new versions in C# that I will include as I complete them.
+    
 - _**Real-Time Rendering Tricks and Techniques in DirectX**_, by Kelly Dempski (Premier Press, 2002)
 
 ## The Premier Press - Game Development Series
-> This is a list of the books in this series that I am personally interested in and have found useful. The ones in bold I have read through and found useful. The point here is that these run between $5 to $10 and are very good, much better than most modern books and these are very much still relevant for beginner to intermediate level developers. Most of these can be found used on hp.com, triftbooks.com, or eBay. I would not recommend buying these new or without the CD, unless you have found the the CD online, which is hard to do.  
+> This is a list of the books in this series that I am personally interested in. The ones in bold I have read through this year and found useful even in 2024. The point in using these old books, is that these run between $5 to $10 used and are very good, much better than most modern books and these are very much still relevant for beginner to intermediate level developers. Most of these can be found used on hp.com, triftbooks.com, or eBay. I would not recommend buying these new because of the cost and the fact that a lot of the content will be too old to be useful. However, much of the content is really good and is pretty much timeless such as game phyics, math, most of the C++, etc.  Also, I would not purchase these without the CD unless you have found the the CD online, which is hard to do. This is why I have included the code here, for those that have the books but no longer have access to the CDs.
+  
 - _**Data Structures for Game Programmers**_, Ron Penton (Premier Press, 2003)
 - _**Isometric Game Programming with DirectX 7.0**_, Ernest Pazera (Premier Press, 2001)
 - _**OpenGL Game Programming**_, by Kevin Hawkins (Premier Press, 2001)
 - _**Curves and Surfaces**_, Kelly Dempski (Premier Press, 2003)
 - _**AI Techniques for Game Programming**_, Mat Buckland (Premier Press, 2002)
 - _**Real-Time Rendering Tricks and Techniques in DirectX**_, Kelly Dempski (Premier Press, 2002)
+- _**Foucus on 3D Models**_, Evan Pipho (2003)
 - _Focus on 2D in Direct3D_, Ernest Pazera (2002)
 - _Special Effects Game Programming with DirectX_, McCusky (2001)
 - _Game Programming All in One_
@@ -41,7 +44,7 @@ I had to migrate the project forward from **Microsoft Developer Studio** project
 - _Advanced Animation with DirectX_, Jim Adams, (2003)
 - _Multiplayer Game Programming_, Todd Barron (2001)
 - _Beginner's Guide to Darkbasic Game Programming_, Jonathan S. Harbour and Joshua Smith (2003)
-- _Game Programming for Teens, Maneesh Sethi (?)
+- _Game Programming for Teens_, Maneesh Sethi (?)
   
 ## Other Premier Press Game Dev Books
 - _**Beginning OpenGL Game Programming**_, by Dave Astle and Kevin Hawkins (Premier Press, 2004)
