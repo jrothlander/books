@@ -10,7 +10,7 @@ I had to migrate the project forward from **Microsoft Developer Studio** project
 - _**Real-Time Rendering Tricks and Techniques in DirectX**_, by Kelly Dempski (Premier Press, 2002)
 
 ## The Premier Press - Game Development Series
-> This is a list of the books in this series that I am personally interested in and have found useful. The ones in bold I have read through and found useful. The point here is that these run between $5 to $10 and are very good, much better than most modern books and these are very much still relevant for beginner to intermediate level developers.   
+> This is a list of the books in this series that I am personally interested in and have found useful. The ones in bold I have read through and found useful. The point here is that these run between $5 to $10 and are very good, much better than most modern books and these are very much still relevant for beginner to intermediate level developers. Most of these can be found used on hp.com, triftbooks.com, or eBay. I would not recommend buying these new or without the CD, unless you have found the the CD online, which is hard to do.  
 - _**Data Structures for Game Programmers**_, Ron Penton (Premier Press, 2003)
 - _**Isometric Game Programming with DirectX 7.0**_, Ernest Pazera (Premier Press, 2001)
 - _**OpenGL Game Programming**_, by Kevin Hawkins (Premier Press, 2001)
