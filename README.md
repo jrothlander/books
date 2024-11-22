@@ -45,6 +45,7 @@ I had to migrate the project forward from **Microsoft Developer Studio** project
 - _Multiplayer Game Programming_, Todd Barron (2001)
 - _Beginner's Guide to Darkbasic Game Programming_, Jonathan S. Harbour and Joshua Smith (2003)
 - _Game Programming for Teens_, Maneesh Sethi (?)
+- _Beginning Game Audio Programming_, Mason McCuskey (Premier Press, 2003)
   
 ## Other Premier Press Game Dev Books
 - _**Beginning OpenGL Game Programming**_, by Dave Astle and Kevin Hawkins (Premier Press, 2004)
