@@ -1,4 +1,5 @@
-# AI Techniques for Game Programming (2002, Premier Press)
+#### The Premier Press Game Development Series
+# AI Techniques for Game Programming (2002)
 > written by Matt Buckland and edited by Andre LaMothe.
 
 * **Chapters 01-11** folders contain the original source and executables from the book.  
