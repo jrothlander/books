@@ -1,6 +1,6 @@
+#### The Premier Press Game Development Series
 # Real-Time Rendering Tricks and Techniques in DirectX (2002)
-> written by William Dempski and edited by Andre LaMothe
-
+> written by Kelly Dempski and edited by Andre LaMothe
 
 
 
