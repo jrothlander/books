@@ -28,31 +28,34 @@ Book publishing has changed in the negative over the past few decades. Today, wh
 > The ones in blod are the ones I have read and would recommend to others learning game dev. The othes are ones I am currently reading or looking to read.
 - _**Data Structures for Game Programmers**_, Ron Penton (Premier Press, 2003)
 - _**Isometric Game Programming with DirectX 7.0**_, Ernest Pazera (Premier Press, 2001)
-- _**OpenGL Game Programming**_, by Kevin Hawkins (Premier Press, 2001)
-- _**Curves and Surfaces**_, Kelly Dempski (Premier Press, 2003)
+- _**OpenGL Game Programming**_, by Kevin Hawkins and Dave Astle (Premier Press, 2004)
+- _**Focus on Curves and Surfaces**_, Kelly Dempski (Premier Press, 2003)
 - _**AI Techniques for Game Programming**_, Mat Buckland (Premier Press, 2002)
 - _**Real-Time Rendering Tricks and Techniques in DirectX**_, Kelly Dempski (Premier Press, 2002)
 - _**Foucus on 3D Models**_, Evan Pipho (2003)
 - _Focus on 2D in Direct3D_, Ernest Pazera (2002)
+- _Focus on SDL_, by Ernest Pazera (2002)
 - _Special Effects Game Programming with DirectX_, McCusky (2001)
 - _Game Programming All in One_
 - _2D Artwork and 3D Modeling for Game Artist_ (2002)
-- _Focus on SDL_, by Ernest Pazera (2002)
 - _Game Programming Tricks of the Trade_ (2002)
 - _Beginning Direct3D Game Programming_, by Wolfgang Engel (2003)
 - _Programming Role Playing Games with DirectX 8.0_, 1st ed., by Jim Adams (2002)
+- _Advanced Animnation with DirectX_, by Jim Adams (2003)
 
 ## Other Books in the Series
-> These are books that probably are too old to be useful and that I have not reviewed.
+> Many of these are books that probably are too old to be useful or I have not reviewed them.
+- _Focus on 3D Terrain Programming, Trent Polack (Premier Press, 2003)
+- _Focus on MOD Programming in Quote III Arena_, Shawn Holmes (2002)
+- _Focus on Photon Mapping_, Marlon John (2003)
 - _Game Developer's Market Guide_
 - _Java 2 Game Programming_, Thomas Petchel (2001)
 - _The Art & Business of Creating Games_
-- _Focus on MOD Programming in Quote III Arena_ (2002)
 - _MAC Game Programming_ (2002)
 - _Palm OS Game Programming_ (2002)
 - _MUD Game Programming_, by Ron Penton (2003)  
 - _Game Development Business & Legal Guide_, Ashley Salisbury (2003)
-- _Visual Basic Game Programming with DirectX_ Jonathan S. Harbour (?)
+- _Visual Basic Game Programming with DirectX_, Jonathan S. Harbour (2002)
 - _Game Sripting Mastery_, Alex Varanese (2002)
 - _Advanced Animation with DirectX_, Jim Adams, (2003)
 - _Multiplayer Game Programming_, Todd Barron (2001)
@@ -60,7 +63,6 @@ Book publishing has changed in the negative over the past few decades. Today, wh
 - _Game Programming for Teens_, Maneesh Sethi (?)
 - _Beginning Game Audio Programming_, Mason McCuskey (Premier Press, 2003)
   
-## Other Premier Press Game Dev Books
+## Other Premier Press Game Dev Books (not in this series)
 - _**Beginning OpenGL Game Programming**_, by Dave Astle and Kevin Hawkins (Premier Press, 2004)
 - _Programming Role Playing Games with DirectX 8.0_, 2nd ed., by Jim Adams (2004) - Note: the first edition (2002) is a part of the Game Dev Series above.
-
