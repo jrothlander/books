@@ -25,7 +25,7 @@ In my opinion, software development book publishing has negatively changed over 
 **The Premier Press Game Developer Series** breaks things down very well and are written by experts with many decades of experiance. I have found them to be excellent resources even if they are a bit dated. The books typically run between $5 to $10 used and are much better organized and written than most modern equivalents, and are very much still relevant for beginner to intermediate level developers. Most of these can be found used on hp.com, triftbooks.com, betterworldbooks.com, or eBay. Some of the content is too old to be useful, typically the first chapter or two. However, most of the content is really good and is timeless, such as game phyics, math(s), most of the C++, etc. I would not purchase these without the CD unless you have found the the CD online, which is hard to do. This is why I have included the code here, for those that have the books but no longer have access to the CDs. 
 
 ## Recommend Books
-> The ones in blod are the ones I have read and would recommend to others learning game dev. The othes are ones I am currently reading or looking to read.
+> The ones in bold are the ones I have read and would recommend to others learning game dev. The othes are ones I am currently reading or looking to read.
 - _**Data Structures for Game Programmers**_, Ron Penton (Premier Press, 2003)
 - _**Isometric Game Programming with DirectX 7.0**_, Ernest Pazera (Premier Press, 2001)
 - _**OpenGL Game Programming**_, by Kevin Hawkins and Dave Astle (Premier Press, 2004)
