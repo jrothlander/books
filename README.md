@@ -46,8 +46,8 @@ In my opinion, software development book publishing has negatively changed over 
 - _Advanced Animnation with DirectX_, by Jim Adams (2003)
 
 ## Other Books in the Series
-> Many of these are books that probably are too old to be useful or I have not reviewed them.
-- _Focus on 3D Terrain Programming, Trent Polack (Premier Press, 2003)
+> Many of these are probably too old to be useful and included here to make the list of books in the series complete. If I encounter any of these, I plan to review them and upload the demo code.
+- _Focus on 3D Terrain Programming_, Trent Polack (Premier Press, 2003)
 - _Focus on MOD Programming in Quote III Arena_, Shawn Holmes (2002)
 - _Focus on Photon Mapping_, Marlon John (2003)
 - _Game Developer's Market Guide_
