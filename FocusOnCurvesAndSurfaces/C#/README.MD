@@ -15,7 +15,7 @@ dig into the details as much as you wish and depending on your own interests and
 ### Bezier Spline 
 ### Bezier Spline Sequence
 
-(Good overview)[https://jamie-wong.com/post/bezier-curves/#:~:text=Resources%20and%20Further%20Reading%20*%20A%20Primer,curves%20seem%20so%20evidently%20elegant%20to%20me.]
+[Good overview](https://jamie-wong.com/post/bezier-curves/#:~:text=Resources%20and%20Further%20Reading%20*%20A%20Primer,curves%20seem%20so%20evidently%20elegant%20to%20me.)
 
 
 
