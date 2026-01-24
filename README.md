@@ -1,7 +1,5 @@
 This is a code repository for samples from a few out-of-print game dev books from 2001-2004 from **The Premier Press - Game Development Series**. I am only providing the original sample code and my own updated versions of the code that I have migrated forward from **Microsoft Developer Studio** to **Visual Studio 2022** and have adjusted as necessary to compile and run. I will also include some of the projects I have rewritten in C# and using the **Monogame/XNA** framework. 
 
-I have rewritten some of the samples in C# and have included them in a **C#** folders.
-
 ## Currently Available
 > Source code is currently avaiable here for the following books:
 
