@@ -12,7 +12,7 @@ I have rewritten some of the samples in C# and have included them in a **C#** fo
     
 - _**Real-Time Rendering Tricks and Techniques in DirectX**_, by Kelly Dempski (Premier Press, 2002)
 
-- _**Focus on Curves and Surfaces**_, by Kelly Dempski (Premier Press, 2003) - Will upload this soon. 
+- _**Focus on Curves and Surfaces**_, by Kelly Dempski (Premier Press, 2003)
   
 ## Changes Made to Migrate the Source
 I had to migrate the project forward from **Microsoft Developer Studio** projects (.dsp) and workspaces (.dsw) to **Visual Studio** projects. To do this, I simply added an empty C++ project, added the header (.h) and C++ files (.cpp) to the solution, changed the application type (Project Properties < Linker < System) from **Console** to a **Windows Desktop**, and changed the character-set (Properties < Advanced < Character Set) from **Unicode** to **Multi-byte**. I had to go through the code and make a number of corrections to get the code to run. But nothing too complex. I have documented the changes in README.md files in the source folder and well as in the source code as comments.   
